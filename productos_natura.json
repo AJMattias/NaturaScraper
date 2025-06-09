@@ -1,0 +1,728 @@
+[
+  {
+    "nombre": "Essencial Supreme EDP Masculino 100 ml",
+    "descripcion": "Essencial",
+    "precio": "$ 60.164,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw379b63a5/169170_1.jpg"
+    ],
+    "precioDescuento": "$ 92.560,00"
+  },
+  {
+    "nombre": "Homem Essence EDP 100 ml",
+    "descripcion": "Homem",
+    "precio": "$ 46.982,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw12b6b21a/NATARG-59848_1.jpg"
+    ],
+    "precioDescuento": "$ 72.280,00"
+  },
+  {
+    "nombre": "Humor a Dois Masculino EDT Masculino 75 ml",
+    "descripcion": "Humor",
+    "precio": "$ 41.632,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0d03413c/NATARG-64748_1.jpg"
+    ],
+    "precioDescuento": "$ 52.040,00"
+  },
+  {
+    "nombre": "Kaiak Oceano EDT Masculino 25ml",
+    "descripcion": "Kaiak",
+    "precio": "$ 16.269,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw768e54b5/NATARG-107781_1.jpg"
+    ],
+    "precioDescuento": "$ 21.693,00"
+  },
+  {
+    "nombre": "Biografia Clásico Masculino EDT Masculino 100 ml",
+    "descripcion": "Biografia",
+    "precio": "$ 37.914,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwac67754a/NATARG-74789_1.jpg"
+    ],
+    "precioDescuento": "$ 58.330,00"
+  },
+  {
+    "nombre": "Homem Nos EDP 100 ml",
+    "descripcion": "Homem",
+    "precio": "$ 54.210,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5becdfc5/168015_1.jpg"
+    ],
+    "precioDescuento": "$ 72.280,00"
+  },
+  {
+    "nombre": "Essencial Único EDP Masculino 90 ml",
+    "descripcion": "Essencial",
+    "precio": "$ 72.234,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8e09305b/1200x1200/118463_1.jpg"
+    ],
+    "precioDescuento": "$ 111.130,00"
+  },
+  {
+    "nombre": "Homem Cor.agio EDP 100 ml",
+    "descripcion": "Homem",
+    "precio": "$ 71.008,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf48bb073/NATARG-186_1.jpg"
+    ],
+    "precioDescuento": "$ 88.760,00"
+  },
+  {
+    "nombre": "Sr.N Clásico EDT 100 ml",
+    "descripcion": "Sr N",
+    "precio": "$ 31.365,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw44c177e4/NATARG-69198_1.jpg"
+    ],
+    "precioDescuento": "$ 41.820,00"
+  },
+  {
+    "nombre": "Homem Elo EDP 100 ml",
+    "descripcion": "Homem",
+    "precio": "$ 50.596,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw9f213a65/1200x1200/135068_1.jpg"
+    ],
+    "precioDescuento": "$ 72.280,00"
+  },
+  {
+    "nombre": "Repuesto Essencial Oud EDP Masculino 100 ml",
+    "descripcion": "Essencial",
+    "precio": "$ 48.126,00",
+    "stock": "Disponible",
+    "categoria": "perfumeria",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwde24a3cb/1200x1200/121945_1.jpg"
+    ],
+    "precioDescuento": "$ 74.040,00"
+  },
+  {
+    "nombre": "Regalo Ekos pitanga",
+    "descripcion": "Ekos",
+    "precio": "$ 30.957,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw534fe399/194494_1.jpg"
+    ],
+    "precioDescuento": "$ 44.225,00"
+  },
+  {
+    "nombre": "Regalo Homem Nos Rutina",
+    "descripcion": "Homem",
+    "precio": "$ 75.955,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0a6cc753/213197_1.jpg"
+    ],
+    "precioDescuento": "$ 116.855,00"
+  },
+  {
+    "nombre": "Regalo Essencial Exclusivo Masculino",
+    "descripcion": "Essencial",
+    "precio": "$ 65.416,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw79d70222/194487_1.jpg"
+    ],
+    "precioDescuento": "$ 100.641,00"
+  },
+  {
+    "nombre": "Regalo Ekos Manos",
+    "descripcion": "Ekos",
+    "precio": "$ 15.769,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbf80203d/194500_1.jpg"
+    ],
+    "precioDescuento": "$ 24.260,00"
+  },
+  {
+    "nombre": "Regalo Ekos tukumá",
+    "descripcion": "Ekos",
+    "precio": "$ 29.640,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw4d64bfa9/214108_1.jpg"
+    ],
+    "precioDescuento": "$ 39.520,00"
+  },
+  {
+    "nombre": "Regalo Papá y Bebé",
+    "descripcion": "Papá y Bebé",
+    "precio": "$ 21.066,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc2afcd81/194498_1.jpg"
+    ],
+    "precioDescuento": "$ 26.333,00"
+  },
+  {
+    "nombre": "Regalo Paz e Humor Masculino",
+    "descripcion": "Humor",
+    "precio": "$ 42.618,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8c217926/194482_1.jpg"
+    ],
+    "precioDescuento": "$ 60.884,00"
+  },
+  {
+    "nombre": "Regalo Ekos Copaíba",
+    "descripcion": "Ekos",
+    "precio": "$ 35.793,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw43ac7919/194488_1.jpg"
+    ],
+    "precioDescuento": "$ 51.134,00"
+  },
+  {
+    "nombre": "Regalo Faces Rostro",
+    "descripcion": "Faces",
+    "precio": "$ 19.145,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbbbab38d/194499_1.jpg"
+    ],
+    "precioDescuento": "$ 27.350,00"
+  },
+  {
+    "nombre": "Regalo Kaiak Urbe Rutina de Viaje",
+    "descripcion": "Kaiak",
+    "precio": "$ 23.460,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwb4b04e88/194497_1.jpg"
+    ],
+    "precioDescuento": "$ 29.325,00"
+  },
+  {
+    "nombre": "Regalo Versiones Humor EDT 25ml",
+    "descripcion": "Humor",
+    "precio": "$ 34.486,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwae395fec/216086_1.jpg"
+    ],
+    "precioDescuento": "$ 43.108,00"
+  },
+  {
+    "nombre": "Regalo Sr.N Nox",
+    "descripcion": "Sr N",
+    "precio": "$ 30.728,00",
+    "stock": "Disponible",
+    "categoria": "regalo",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw0dd917a5/194481_1.jpg"
+    ],
+    "precioDescuento": "$ 43.898,00"
+  },
+  {
+    "nombre": "Pulpa Hidratante para Manos Ekos Nespresso Castaña 75 g",
+    "descripcion": "Ekos",
+    "precio": "$ 8.318,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw7317dc99/70983_1%20(1).jpg"
+    ],
+    "precioDescuento": "$ 11.089,00"
+  },
+  {
+    "nombre": "Pulpa Hidratante para Pies Ekos Castaña 75 g",
+    "descripcion": "Ekos",
+    "precio": "$ 10.013,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwbeb658fa/NATARG-69817_1.jpg"
+    ],
+    "precioDescuento": "$ 11.780,00"
+  },
+  {
+    "nombre": "Pulpa Hidratante Corporal Ekos Açaí 400 ml",
+    "descripcion": "Ekos",
+    "precio": "$ 16.463,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwde07e47a/97267_1.jpg"
+    ],
+    "precioDescuento": "$ 21.950,00"
+  },
+  {
+    "nombre": "Ekos Açaí Frescor EDT 150 ml",
+    "descripcion": "Ekos",
+    "precio": "$ 31.488,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw1f37d265/NATARG-75955_1.jpg"
+    ],
+    "precioDescuento": "$ 39.360,00"
+  },
+  {
+    "nombre": "Pulpa Hidratante para Manos Ekos Castaña 75 g",
+    "descripcion": "Ekos",
+    "precio": "$ 9.427,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc40a22d6/70983_1.jpg"
+    ],
+    "precioDescuento": "$ 11.090,00"
+  },
+  {
+    "nombre": "Ekos Ryo Vivo EDT 75 ml",
+    "descripcion": "Ekos",
+    "precio": "$ 46.837,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw9e3afe06/133869_1.jpg"
+    ],
+    "precioDescuento": "$ 66.910,00"
+  },
+  {
+    "nombre": "Repuesto Pulpa Hidratante Corporal Ekos Castaña 400 ml",
+    "descripcion": "Ekos",
+    "precio": "$ 12.375,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dweb354a0e/NATARG-69822_1.jpg"
+    ],
+    "precioDescuento": "$ 16.500,00"
+  },
+  {
+    "nombre": "Ekos Castaña Frescor EDT 150 ml",
+    "descripcion": "Ekos",
+    "precio": "$ 31.488,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwe96c5946/NATARG-73572_1.jpg"
+    ],
+    "precioDescuento": "$ 39.360,00"
+  },
+  {
+    "nombre": "Pulpa Exfoliante para Manos y Pies Ekos Castaña 60 g",
+    "descripcion": "Ekos",
+    "precio": "$ 9.427,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5dbe0d4d/NATARG-70981_1.jpg"
+    ],
+    "precioDescuento": "$ 11.090,00"
+  },
+  {
+    "nombre": "Ekos Ryo Festa EDT 75 ml",
+    "descripcion": "Ekos",
+    "precio": "$ 53.528,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwf60ed93f/133868_1.jpg"
+    ],
+    "precioDescuento": "$ 66.910,00"
+  },
+  {
+    "nombre": "Hidratante Corporal Concentrado Ekos Castaña 30 ml",
+    "descripcion": "Ekos",
+    "precio": "$ 15.870,00",
+    "stock": "Disponible",
+    "categoria": "cuidados-diarios",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw25d7351e/150220_1.jpg"
+    ],
+    "precioDescuento": "$ 18.670,00"
+  },
+  {
+    "nombre": "Repuesto Iluminador Marmolizado de Cuerpo y Rostro Una 3,5 g",
+    "descripcion": "Una",
+    "precio": "$ 20.093,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw514ea526/NATARG-24865_1.jpg"
+    ],
+    "precioDescuento": "$ 26.790,00"
+  },
+  {
+    "nombre": "Polvo Suelto Mate Natural Una 8 g",
+    "descripcion": "Una",
+    "precio": "$ 28.889,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa09e570e/165384_1.jpg"
+    ],
+    "precioDescuento": "$ 41.270,00"
+  },
+  {
+    "nombre": "Primer Facial FPS 40 Una 30 ml",
+    "descripcion": "Una",
+    "precio": "$ 24.448,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw9dc2e993/1200x1200/118797_1.jpg"
+    ],
+    "precioDescuento": "$ 30.560,00"
+  },
+  {
+    "nombre": "Polvo Suelto Mate Natural Una 8 g",
+    "descripcion": "Una",
+    "precio": "$ 28.889,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa09e570e/165384_1.jpg"
+    ],
+    "precioDescuento": "$ 41.270,00"
+  },
+  {
+    "nombre": "Delineador Retráctil Faces 280 mg",
+    "descripcion": "Faces",
+    "precio": "$ 9.758,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6338dfb1/1200x1200/109141_1.jpg"
+    ],
+    "precioDescuento": "$ 13.010,00"
+  },
+  {
+    "nombre": "Base Sérum Nude Me Una 30 ml",
+    "descripcion": "Una",
+    "precio": "$ 36.632,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw44b51101/1200x1200/110185_1.jpg"
+    ],
+    "precioDescuento": "$ 45.790,00"
+  },
+  {
+    "nombre": "Primer Blur Una 30 ml",
+    "descripcion": "Una",
+    "precio": "$ 21.392,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw85352f7b/NATARG-59313_1.jpg"
+    ],
+    "precioDescuento": "$ 30.560,00"
+  },
+  {
+    "nombre": "Delineador Retráctil Faces 280 mg",
+    "descripcion": "Faces",
+    "precio": "$ 9.758,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwcbb7f1ad/1200x1200/109142_1.jpg"
+    ],
+    "precioDescuento": "$ 13.010,00"
+  },
+  {
+    "nombre": "Bruma Facial Hidratante Fijadora Una 100 ml",
+    "descripcion": "Una",
+    "precio": "$ 26.733,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw95b84cd5/1200x1200/153720_1.jpg"
+    ],
+    "precioDescuento": "$ 38.190,00"
+  },
+  {
+    "nombre": "Máscara Mega Fantástica Faces 7 ml",
+    "descripcion": "Faces",
+    "precio": "$ 9.345,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw1a983ecb/NATARG-67666_1.jpg"
+    ],
+    "precioDescuento": "$ 12.460,00"
+  },
+  {
+    "nombre": "Labial Gel Lip Stain Una 3 g",
+    "descripcion": "Una",
+    "precio": "$ 11.970,00",
+    "stock": "Disponible",
+    "categoria": "maquillaje",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3ab08a74/119427_1.jpg"
+    ],
+    "precioDescuento": "$ 17.100,00"
+  },
+  {
+    "nombre": "Shampoo Lumina Reestructurante Cabellos Químicamente Dañados 300 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 8.040,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw73d0f98d/148170_1.jpg"
+    ],
+    "precioDescuento": "$ 10.050,00"
+  },
+  {
+    "nombre": "Acondicionador Lumina Cabellos Químicamente Dañados 300 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 8.040,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw8c23baa4/148442_1.jpg"
+    ],
+    "precioDescuento": "$ 10.050,00"
+  },
+  {
+    "nombre": "Sérum Lumina Regenerador Progresivo Cabellos Químicamente Dañados 100 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 12.536,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwe5956085/148421_1.jpg"
+    ],
+    "precioDescuento": "$ 15.670,00"
+  },
+  {
+    "nombre": "Máscara Lumina Regeneradora Cabellos Químicamente Dañados 250 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 11.944,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw52cb6914/148412_1.jpg"
+    ],
+    "precioDescuento": "$ 14.930,00"
+  },
+  {
+    "nombre": "Repuesto Shampoo Lumina Estimulante Anticaída y Crecimiento 300 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 6.525,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwe118fab9/147450_1.jpg"
+    ],
+    "precioDescuento": "$ 8.700,00"
+  },
+  {
+    "nombre": "Shampoo Lumina Matizador Cabellos Rubios o con Canas 300 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 8.040,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwaad65b94/148158_1.jpg"
+    ],
+    "precioDescuento": "$ 10.050,00"
+  },
+  {
+    "nombre": "Esencia Lumina 30 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 14.960,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw857b2a88/148167_1.jpg"
+    ],
+    "precioDescuento": "$ 18.700,00"
+  },
+  {
+    "nombre": "Spray Lumina Protector UV Cabellos Expuestos al Sol, Playa y Piscina 150 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 12.536,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwb4a112cf/148425_1.jpg"
+    ],
+    "precioDescuento": "$ 15.670,00"
+  },
+  {
+    "nombre": "Máscara Lumina Restauradora Cabellos Expuestos al Sol, Playa y Piscina 220 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 11.944,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw5c5e3ec1/148435_1.jpg"
+    ],
+    "precioDescuento": "$ 14.930,00"
+  },
+  {
+    "nombre": "Repuesto Acondicionador Lumina Fortificante Anticaída y Crecimiento 300 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 6.525,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwea77a9b7/147451_1.jpg"
+    ],
+    "precioDescuento": "$ 8.700,00"
+  },
+  {
+    "nombre": "Shampoo Lumina Estimulante Anticaída y Crecimiento 300 ml",
+    "descripcion": "Lumina",
+    "precio": "$ 9.512,00",
+    "stock": "Disponible",
+    "categoria": "cabello",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw6e37d7a7/147421_1.jpg"
+    ],
+    "precioDescuento": "$ 11.890,00"
+  },
+  {
+    "nombre": "Mascarilla Exfoliante Reductora de Poros Faces 50 ml",
+    "descripcion": "Faces",
+    "precio": "$ 10.635,00",
+    "stock": "Disponible",
+    "categoria": "rostro",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw1e0ffe98/NATARG-85003_1.jpg"
+    ],
+    "precioDescuento": "$ 14.180,00"
+  },
+  {
+    "nombre": "Protector Aclarador FPS 50+ Chronos 50 ml",
+    "descripcion": "Chronos Derma",
+    "precio": "$ 25.081,00",
+    "stock": "Disponible",
+    "categoria": "rostro",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwc1ca89c4/80059_1.jpg"
+    ],
+    "precioDescuento": "$ 35.830,00"
+  },
+  {
+    "nombre": "Esencia de Tratamiento Revitalización y Luminosidad Chronos 100 ml",
+    "descripcion": "Chronos Derma",
+    "precio": "$ 35.836,00",
+    "stock": "Disponible",
+    "categoria": "rostro",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw1ece6c55/135043_1.jpg"
+    ],
+    "precioDescuento": "$ 42.160,00"
+  },
+  {
+    "nombre": "Protector Aclarador FPS 50+ Chronos 50 ml",
+    "descripcion": "Chronos Derma",
+    "precio": "$ 25.081,00",
+    "stock": "Disponible",
+    "categoria": "rostro",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwd5f5f10d/69050_1.jpg"
+    ],
+    "precioDescuento": "$ 35.830,00"
+  },
+  {
+    "nombre": "Bálsamo Desmaquillante Faces 45 g",
+    "descripcion": "Faces",
+    "precio": "$ 15.428,00",
+    "stock": "Disponible",
+    "categoria": "rostro",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwb9a8f595/128752_1.jpg"
+    ],
+    "precioDescuento": "$ 20.570,00"
+  },
+  {
+    "nombre": "Sérum Intensivo Antioxidante Chronos 15 ml",
+    "descripcion": "Chronos Derma",
+    "precio": "$ 56.916,00",
+    "stock": "Disponible",
+    "categoria": "rostro",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw3b610253/1200x1200/131456_1.jpg"
+    ],
+    "precioDescuento": "$ 66.960,00"
+  },
+  {
+    "nombre": "Repuesto Desmaquillante Intensivo Bifásico Chronos 150 ml",
+    "descripcion": "Chronos Derma",
+    "precio": "$ 13.868,00",
+    "stock": "Disponible",
+    "categoria": "rostro",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw08b42a15/135058_1.jpg"
+    ],
+    "precioDescuento": "$ 18.490,00"
+  },
+  {
+    "nombre": "Desmaquillante para Rostro Faces 120 ml",
+    "descripcion": "Faces",
+    "precio": "$ 11.880,00",
+    "stock": "Disponible",
+    "categoria": "rostro",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw654d570c/1200x1200/117124_1.jpg"
+    ],
+    "precioDescuento": "$ 15.840,00"
+  },
+  {
+    "nombre": "Jabón de Limpieza Facial Faces 120 g",
+    "descripcion": "Faces",
+    "precio": "$ 8.318,00",
+    "stock": "Disponible",
+    "categoria": "rostro",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw85b737c2/NATARG-90175_1.jpg"
+    ],
+    "precioDescuento": "$ 11.090,00"
+  },
+  {
+    "nombre": "Hidratante Facial Piel Normal a Seca Faces 50 ml",
+    "descripcion": "Faces",
+    "precio": "$ 9.878,00",
+    "stock": "Disponible",
+    "categoria": "rostro",
+    "imagenes": [
+      "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwcb4b3c2a/NATARG-91820_1.jpg"
+    ],
+    "precioDescuento": "$ 13.170,00"
+  }
+]
