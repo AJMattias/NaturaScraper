@@ -1,7 +1,7 @@
 ﻿# NaturaScraper
 Para correr el archivo:
 
-node index.js
+node index.js o
 node index2.js
 
 actualmente index2 esta mas actualizado/completo
